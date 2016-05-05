@@ -4,25 +4,13 @@
 </p>
 <br/>
 
-# Nombre del proyecto
+# Carpeta de Fotos
 
-## Fecha
-* 
+## Fotos del proyecto antes, durante y despues del desarrollo del mismo
 
-## Descripcion del proyecto
-* 
+* Fotos
 
-## Herramientas utilizadas
-* 
-
-## Modelos de PLC, etc.
-* 
-
-## Autores
-* 
-
-## Comentarios
-* 
+* Capturas de pantalla
 
 ---
 ![IMG_20160229_125158019.jpg](/Fotos/IMG_20160229_125158019.jpg)
